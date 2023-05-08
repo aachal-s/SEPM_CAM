@@ -4,8 +4,7 @@ This project consists of all the detailed Software Project Requirements for the 
 
 The project consists of the following:-
 
-1.The software requirement document (SRS) for given problem statement(College Administration Management).
-
+1.The software requirement document (SRS) for given problem statement(College Administration Management). 
 2.The Structured Systems Analysis and Design (SSAD)- The DFD MODEL (Level 0, Level 1 and Level 2).
 3.Object Oriented Analysis and design using UML diagrams: Use case, Class Diagram.
 4.Object Oriented Analysis and design using UML diagrams: Activity diagram, Sequence Diagram.
